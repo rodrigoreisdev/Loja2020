@@ -1,0 +1,49 @@
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\bin\Debug\Loja2020.exe.config
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\bin\Debug\Loja2020.exe
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\bin\Debug\Loja2020.pdb
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\obj\Debug\Loja2020.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\obj\Debug\Loja2020.FrmAlterarExcluirCategoria.resources
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\obj\Debug\Loja2020.FrmConsulta.resources
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\obj\Debug\Loja2020.FrmIncluirCategoria.resources
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\obj\Debug\Loja2020.FrmLocalizarProduto.resources
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\obj\Debug\Loja2020.FrmPrincipal.resources
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\obj\Debug\Loja2020.FrmProduto.resources
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\obj\Debug\Loja2020.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\obj\Debug\Loja2020.csproj.GenerateResource.cache
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\obj\Debug\Loja2020.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\obj\Debug\Loja2020.exe
+C:\Users\Rodrigo\Desktop\Loja2020\Loja2020\obj\Debug\Loja2020.pdb
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\bin\Debug\Loja2020.exe.config
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\bin\Debug\Loja2020.exe
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\bin\Debug\Loja2020.pdb
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.FrmAlterarExcluirCategoria.resources
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.FrmConsulta.resources
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.FrmIncluirCategoria.resources
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.FrmLocalizarProduto.resources
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.FrmPrincipal.resources
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.FrmProduto.resources
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.csproj.GenerateResource.cache
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.exe
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.pdb
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.frmRelatorio.resources
+C:\Users\Rodrigo\Desktop\Aulas\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.frmRelatorioProdutoPorCategoria.resources
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\bin\Debug\Loja2020.exe.config
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\bin\Debug\Loja2020.exe
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\bin\Debug\Loja2020.pdb
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.csprojAssemblyReference.cache
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.FrmAlterarExcluirCategoria.resources
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.FrmConsulta.resources
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.FrmIncluirCategoria.resources
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.FrmLocalizarProduto.resources
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.FrmPrincipal.resources
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.FrmProduto.resources
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.frmRelatorio.resources
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.frmRelatorioProdutoPorCategoria.resources
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.Properties.Resources.resources
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.csproj.GenerateResource.cache
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.csproj.CoreCompileInputs.cache
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.exe
+F:\Aulas\4 Periodo\Linguagens II\Loja2020\Loja2020\obj\Debug\Loja2020.pdb
